@@ -1,4 +1,4 @@
-# @semantic-release/github
+# [WIP] semantic-release-expo
 
 Set of [Semantic-release](https://github.com/semantic-release/semantic-release) plugins for publishing a
 [GitHub release](https://help.github.com/articles/about-releases).
